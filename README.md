@@ -5,4 +5,6 @@ Analysis for the kickstarters campaign
 ### Challenge
 Analysis for the Theater campaign based on Goal and Launch date.
 ![Outcomes Based on Goal.png]
+![Outcomes Based on Date.png]
+
 
