@@ -4,4 +4,5 @@ Performing analysis on Kickstarter data to uncover trends
 Analysis for the kickstarters campaign
 ### Challenge
 Analysis for the Theater campaign based on Goal and Launch date.
+![Outcomes Based on Goal.png]
 
